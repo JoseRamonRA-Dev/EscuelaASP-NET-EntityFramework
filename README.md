@@ -1,1 +1,1 @@
-# platzi-asp-net-core
+Proyecto realizado en ASP.NET MVC
